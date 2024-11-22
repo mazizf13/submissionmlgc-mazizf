@@ -1,0 +1,6 @@
+{
+	"backend-service-url": "https://cancerpredict-0101.asia-southeast2.run.app",
+	"frontend-service-url": "http://submissionmlgc-name.et.r.appspot.com/",
+	"project-id": "submissionmlgc-name",
+	"bucket-name": "asclepius-bucket"
+}

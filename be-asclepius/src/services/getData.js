@@ -2,7 +2,7 @@ const { Firestore } = require('@google-cloud/firestore');
 
 const getData = async () => {
   const db = new Firestore({
-    projectId: 'submissionmlgc-aziz',
+    projectId: 'submissionmlgc-mazizf',
   });
   const snapshotData = await db.collection('predictions').get();
 

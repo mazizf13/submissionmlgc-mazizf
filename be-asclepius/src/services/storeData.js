@@ -2,7 +2,7 @@ const { Firestore } = require('@google-cloud/firestore');
 
 function storeData(id, data) {
   const db = new Firestore({
-    projectId: 'submissionmlgc-aziz',
+    projectId: 'try-mlgc',
   });
 
   const predictCollection = db.collection('predictions');
